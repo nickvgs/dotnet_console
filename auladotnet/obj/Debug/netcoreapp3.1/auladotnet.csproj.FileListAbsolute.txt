@@ -1,0 +1,11 @@
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.exe
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.deps.json
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.runtimeconfig.json
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.runtimeconfig.dev.json
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.dll
+D:\github\dotnet_console\auladotnet\bin\Debug\netcoreapp3.1\auladotnet.pdb
+D:\github\dotnet_console\auladotnet\obj\Debug\netcoreapp3.1\auladotnet.csprojAssemblyReference.cache
+D:\github\dotnet_console\auladotnet\obj\Debug\netcoreapp3.1\auladotnet.AssemblyInfoInputs.cache
+D:\github\dotnet_console\auladotnet\obj\Debug\netcoreapp3.1\auladotnet.AssemblyInfo.cs
+D:\github\dotnet_console\auladotnet\obj\Debug\netcoreapp3.1\auladotnet.dll
+D:\github\dotnet_console\auladotnet\obj\Debug\netcoreapp3.1\auladotnet.pdb
